@@ -1,7 +1,7 @@
 # CAN Bus Network with MQTT Integration 🚗🏭
 ![Schematic](schematic.png)
-![Fig.4](fig.4.jpg)
-![Fig.5](fig.5.jpg)
+![Fig.4](fig.4.jpeg)
+![Fig.5](fig.5.jpeg)
 ![CAN Bus Network](MQTT.png)
 ![Fig.1](fig.1.png)
 ![Fig.2](fig.2.png)
