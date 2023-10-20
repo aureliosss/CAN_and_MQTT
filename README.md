@@ -6,6 +6,10 @@
 ![Fig.1](fig.1.png)
 ![Fig.2](fig.2.png)
 ![Fig.3](fig.3.png)
+![Fig.6](example/fig.6.jpeg)
+![fig.7](example/fig.7.jpeg)
+![fig.8](example/fig.8.jpeg)
+![fig.9](example/fig.10.jpg)
 
 ## Overview
 
